@@ -1,3 +1,5 @@
+#this a prime number program
+
 n = 10
 x = 3
 l = [2]
